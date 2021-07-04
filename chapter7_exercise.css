@@ -3,3 +3,43 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.main-visual {
+  width: 100%;
+  height: 400px;
+  background-image: url(img1-7/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.main-visual-text {
+  padding: 20px;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.service1 {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+
+.service2 {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+
+.service3 {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+
+.service1 {
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
